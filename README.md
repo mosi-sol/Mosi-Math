@@ -4,4 +4,4 @@ conjectors/theorem/db
 
 #
 
-Prime numbers DB: [here](https://t5k.org/primes/lists/all.txt) - download able for free
+Largest Prime numbers DB (5000 largest): [here](https://t5k.org/primes/lists/all.txt) - download able for free
