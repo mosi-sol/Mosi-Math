@@ -61,10 +61,12 @@ plt.tight_layout()
 plt.show()
 
 
+# ******************************************
+# for log in console, or copy following code in an empty python code
 def log_formula_results():
     for n in range(1, 101):
         result = n**2 - n + 41
         print(f"n = {n}: {result}")
 
 # Call the function to log the results
-# log_formula_results()
+log_formula_results()
