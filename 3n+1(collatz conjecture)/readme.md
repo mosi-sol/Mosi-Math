@@ -28,3 +28,5 @@ When i try to 10 branches i looking interesting information:
 ```
 Actually after long observation i found the pattern.\
 All numbers make same branches in different possibilities.
+
+A wonderfull relation between 3 and 10 or 33 and 100 or similar numbers exist!!!
