@@ -6,6 +6,8 @@ This code reverse the opperations of collatz to find the root of numbers in seve
 
 - i changed my base "c" code to this python code
 
+#
+
 I has observe so many twin numbers made a pattern, like `61`:
 ```
 1952 (even) | 976 (even) | 488 (even) | 244 (even) | 122 (even) | 61 (start)
