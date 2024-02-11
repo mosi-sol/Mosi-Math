@@ -12,4 +12,5 @@ I has observe so many twin numbers made a pattern, like `61`:
 325 (odd) | 976 (even) | 488 (even) | 244 (even) | 122 (even) | 61 (start)
 324 (even) | 162 (even) | 81 (odd) | 244 (even) | 122 (even) | 61 (start)
 ```
+The number `61` have 3 branches in 5 time reverses.\
 On this observation you can watching `324` and `325` are twins in the root of `61`
