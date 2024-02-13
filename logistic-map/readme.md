@@ -12,12 +12,12 @@ systems can exhibit complex behavior, including chaos, under certain conditions.
 
 #
 
-Example setup:
+### Example setup:
 - `r:3.141592` , `x:0.5` , `iterations:100`
 - `r:2.718` , `x:0.5` , `iterations:100`
 - `r:0.5` , `x:0.5` , `iterations:100`
 
-Groeth model example (impossible mission):
+### Growth model example (impossible mission):
 - r: 1.589048505890485
 - x: 0.00005890485
 - iterations: 30
