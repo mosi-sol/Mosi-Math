@@ -63,4 +63,4 @@ In simpler terms, this formula states that a number $\(n\)$ is considered prime 
 other than 1 and itself. The trial division method tests this by checking for divisors from 2 up to the square root 
 of $\(n\)$. If any divisor is found within this range, $\(n\)$ is not prime; otherwise, it is prime.
 
-> latex not good work on github, so some math formula not good show
+> latex not good work on github, so some math formula not good show (where symbol $ start and finish line)
