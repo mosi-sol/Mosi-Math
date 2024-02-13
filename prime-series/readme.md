@@ -31,3 +31,13 @@ $\[p∤numerator(Bk)]\$
 
 If this holds for all `Bk​` in the range, then pp is a regular prime.
 
+#### Euler-Maclaurin Formula
+
+The Euler-Maclaurin formula, which connects sums, integrals, and Bernoulli numbers, is another area where these concepts interplay, though it's more complex and involves calculus. It's used indirectly to study the distribution of prime numbers, especially in analytic number theory.
+
+These equations and relationships showcase the intricate connections between sums of powers (Faulhaber's formula), Bernoulli numbers, and prime numbers, highlighting the deep interplay of these concepts in number theory and beyond.
+
+#
+
+On this python code i convert this relationship to code. 
+- When you have want to choose change the range, looking your compute power.
