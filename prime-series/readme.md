@@ -1,3 +1,5 @@
+## The proof of Behiverial morality of small numbers:
+
 Relation of "**Faulhaber's Fabulous Formula** (and **Bernoulli Numbers**)" to the prime numbers
 
 #### Faulhaber's Formula
