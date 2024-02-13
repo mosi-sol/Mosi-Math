@@ -6,7 +6,7 @@ Relation of "**Faulhaber's Fabulous Formula** (and **Bernoulli Numbers**)" to th
 
 Faulhaber's formula for the sum of the kkth powers of the first nn natural numbers can be expressed using Bernoulli numbers (BmBm​) as follows:
 
-$\[Sk(n)=1k+1∑m=0k(k+1m)Bmnk+1−m]]\$ ![-](/img/0001.png)
+$\[Sk(n)=1k+1∑m=0k(k+1m)Bmnk+1−m]]\$ [^1]
 
 `Sk(n)` represents the sum `1k+2k+⋯+nk`, and `(k+1m)` are the binomial coefficients.
 
@@ -15,11 +15,11 @@ $\[Sk(n)=1k+1∑m=0k(k+1m)Bmnk+1−m]]\$ ![-](/img/0001.png)
 Bernoulli numbers are deeply connected to the Riemann zeta function, `ζ(s)`, for negative integer arguments. 
 The Riemann zeta function is defined for `s>1` as:
 
-$\[ζ(s)=∑n=1∞1ns]\$
+$\[ζ(s)=∑n=1∞1ns]\$ [^2]
 
 For negative integers (`s=−n`), where nn is a positive integer, we have:
 
-$\[ζ(−n)=−Bn+1n+1]\$
+$\[ζ(−n)=−Bn+1n+1]\$ [^3]
 
 The zeta function plays a crucial role in the distribution of prime numbers, particularly through its non-trivial 
 zeros according to the Riemann Hypothesis.
@@ -29,7 +29,7 @@ zeros according to the Riemann Hypothesis.
 A prime pp is regular if it does not divide the numerator of any of the Bernoulli numbers `B2,B4,…,Bp−3`​. 
 This can be algebraically represented by checking for each Bernoulli number `Bk​` (where `k` is even and `2≤k≤p−3`):
 
-$\[p∤numerator(Bk)]\$
+$\[p∤numerator(Bk)]\$ [^4]
 
 If this holds for all `Bk​` in the range, then pp is a regular prime.
 
@@ -40,13 +40,10 @@ The Euler-Maclaurin formula, which connects sums, integrals, and Bernoulli numbe
 These equations and relationships showcase the intricate connections between sums of powers (Faulhaber's formula), Bernoulli numbers, and prime numbers, highlighting the deep interplay of these concepts in number theory and beyond.
 
 
-![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0001.png)
-
-![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0002.png)
-
-![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0003.png)
-
-![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0004.png)
+[^1]: ![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0001.png)
+[^2]: ![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0002.png)
+[^3]: ![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0003.png)
+[^4]: ![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0004.png)
 
 #
 
