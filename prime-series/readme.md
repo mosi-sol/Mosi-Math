@@ -50,7 +50,7 @@ On this python code i convert this relationship to code.
 Prime validation proof:
 > Bernoulli numbers are related to prime numbers, notably through their role in the Euler-Maclaurin formula, the Riemann zeta function, and the criteria for regular primes.
 
-
+Latex problem to write in doc, so looking the pictures on `img` folder
 [^1]: ![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0001.png)
 [^2]: ![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0002.png)
 [^3]: ![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0003.png)
