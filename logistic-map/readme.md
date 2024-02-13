@@ -21,3 +21,8 @@ systems can exhibit complex behavior, including chaos, under certain conditions.
 - r: 1.589048505890485
 - x: 0.00005890485
 - iterations: 30
+
+or:
+- r: 1.5
+- x: 0.2
+- iterations: 30
