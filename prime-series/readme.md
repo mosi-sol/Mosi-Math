@@ -39,6 +39,15 @@ The Euler-Maclaurin formula, which connects sums, integrals, and Bernoulli numbe
 
 These equations and relationships showcase the intricate connections between sums of powers (Faulhaber's formula), Bernoulli numbers, and prime numbers, highlighting the deep interplay of these concepts in number theory and beyond.
 
+
+![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0001.png)
+
+![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0002.png)
+
+![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0003.png)
+
+![-](https://github.com/mosi-sol/Mosi-Math/tree/main/prime-series/img/0004.png)
+
 #
 
 On this python code i convert this relationship to code. 
