@@ -6,7 +6,7 @@ Relation of "**Faulhaber's Fabulous Formula** (and **Bernoulli Numbers**)" to th
 
 Faulhaber's formula for the sum of the kkth powers of the first nn natural numbers can be expressed using Bernoulli numbers (BmBm​) as follows:
 
-$\[Sk(n)=1k+1∑m=0k(k+1m)Bmnk+1−m]]\$ 
+$\[Sk(n)=1k+1∑m=0k(k+1m)Bmnk+1−m]]\$ ![-](/img/0001.png)
 
 `Sk(n)` represents the sum `1k+2k+⋯+nk`, and `(k+1m)` are the binomial coefficients.
 
