@@ -41,3 +41,8 @@ These equations and relationships showcase the intricate connections between sum
 
 On this python code i convert this relationship to code. 
 - When you have want to choose change the range, looking your compute power.
+- Can to save result as the text file `.txt`
+
+Prime validation proof:
+> Bernoulli numbers are related to prime numbers, notably through their role in the Euler-Maclaurin formula, the Riemann zeta function, and the criteria for regular primes.
+
