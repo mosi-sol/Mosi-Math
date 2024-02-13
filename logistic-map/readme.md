@@ -13,6 +13,6 @@ systems can exhibit complex behavior, including chaos, under certain conditions.
 #
 
 Example setup:
-- r:3.141592 , x:0.5 , iterations:100
-- r:2.718 , x:0.5 , iterations:100
-- r:0.5 , x:0.5 , iterations:100
+- `r:3.141592` , `x:0.5` , `iterations:100`
+- `r:2.718` , `x:0.5` , `iterations:100`
+- `r:0.5` , `x:0.5` , `iterations:100`
