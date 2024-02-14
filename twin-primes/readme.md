@@ -2,4 +2,4 @@
 
 when two primes in a raw with another number between, then we call those twins.
 
-so many proof for validating them exist, bu root digit sum of multiply those two is the usefull.
+so many proof for validating them exist, but root digit sum of multiply those two is the usefull.
