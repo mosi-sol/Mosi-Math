@@ -1,1 +1,1 @@
-some jabr-visualazor by usin python
+some jabr-visualazor app by using python
