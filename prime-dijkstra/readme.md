@@ -14,4 +14,4 @@ at hand, highlighting the creative, albeit metaphorical, application of concepts
    - Non-prime numbers could be seen as having a higher "cost" because they are not our target and represent "longer paths" to the next prime number, metaphorically speaking.
 
 3. **"Shortest Path" Interpretation**: The goal in Dijkstra's is to find the shortest path between nodes. In our prime-finding scenario, the "shortest path" could be humorously interpreted as the most efficient way to jump from one prime number to the next within the specified range.
-4. 
+   
