@@ -1,6 +1,6 @@
 ##  "Dijkstra's approach algorithm"
 Dijkstra's algorithm involves updating distances to nodes and selecting the minimum distance node not yet processed. Prime number finding, 
-however, involves checking divisibility and lacks the concept of distances between nodes in a way that would be meaningful for a graph search algorithm.\
+however, involves checking divisibility and lacks the concept of distances between nodes in a way that would be meaningful for a g**raph search algorithm**.\
 To reiterate, the task of finding prime numbers is a problem of arithmetic and divisibility, fundamentally different from graph traversal and shortest path 
 problems that Dijkstra's algorithm is designed to solve. This exercise demonstrates the importance of matching problem-solving tools to the nature of the problem 
 at hand, highlighting the creative, albeit metaphorical, application of concepts across disciplines.
