@@ -8,4 +8,4 @@ Largest Prime numbers DB (5000 largest): [here](https://t5k.org/primes/lists/all
 
 #
 
-> Free to use all codes, but for morality mention my github. thanks
+> Free to use all codes. but for morality, mention my github. thanks
