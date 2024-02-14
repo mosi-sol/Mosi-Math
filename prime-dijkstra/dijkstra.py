@@ -1,3 +1,4 @@
+# pip install PyQt5
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QLineEdit, QLabel, QTableWidget, QTableWidgetItem, QVBoxLayout, QWidget, QFileDialog
 from PyQt5.QtCore import Qt
