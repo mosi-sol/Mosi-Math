@@ -197,3 +197,6 @@ Mathematically, the custom strategy **reduces cycle lengths**, shifting the dist
 
 ## Python Code:
 [simulation model](https://github.com/mosi-sol/Mosi-Math/blob/main/100-prisoners/mosi_algorithm.py)
+
+## Custom strategy
+In this article i have mention of the `custom strategy` as my name, `mosi algorithm`
