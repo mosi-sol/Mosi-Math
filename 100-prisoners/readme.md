@@ -179,15 +179,15 @@ Mathematically, the custom strategy **reduces cycle lengths**, shifting the dist
 ---
 
 ## Citations:
-[1] https://en.wikipedia.org/wiki/100_prisoners_problem
-[2] https://math.mit.edu/~apost/courses/18.204_2018/Timothee_Schoen_paper.pdf
-[3] https://www.reddit.com/r/math/comments/zegqnq/strategy_for_100_prisoner_problem_if_you_want_no/
-[4] https://algorithmsoup.wordpress.com/2019/04/05/proving-optimality-for-the-100-prisoners-problem/
-[5] https://www.youtube.com/watch?v=iSNsgj1OCLA
-[6] https://news.ycombinator.com/item?id=16984815
-[7] https://stackoverflow.com/questions/73256597/is-there-a-better-approach-to-the-proof-code-of-100-prisoners-question
-[8] https://stackoverflow.com/questions/72843695/c-100-prisoners-riddle-something-wrong-with-my-code
-[9] https://www.google.com/search?client=firefox-b-d&q=Peter+Bro+Miltersen
+    [1] https://en.wikipedia.org/wiki/100_prisoners_problem
+    [2] https://math.mit.edu/~apost/courses/18.204_2018/Timothee_Schoen_paper.pdf
+    [3] https://www.reddit.com/r/math/comments/zegqnq/strategy_for_100_prisoner_problem_if_you_want_no/
+    [4] https://algorithmsoup.wordpress.com/2019/04/05/proving-optimality-for-the-100-prisoners-problem/
+    [5] https://www.youtube.com/watch?v=iSNsgj1OCLA
+    [6] https://news.ycombinator.com/item?id=16984815
+    [7] https://stackoverflow.com/questions/73256597/is-there-a-better-approach-to-the-proof-code-of-100-prisoners-question
+    [8] https://stackoverflow.com/questions/72843695/c-100-prisoners-riddle-something-wrong-with-my-code
+    [9] https://www.google.com/search?client=firefox-b-d&q=Peter+Bro+Miltersen
 
 ---
 
