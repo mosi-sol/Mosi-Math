@@ -179,7 +179,7 @@ Mathematically, the custom strategy **reduces cycle lengths**, shifting the dist
 
 ---
 
-## Citations:
+## Citations/References:
     [1] https://en.wikipedia.org/wiki/100_prisoners_problem
     [2] https://math.mit.edu/~apost/courses/18.204_2018/Timothee_Schoen_paper.pdf
     [3] https://www.reddit.com/r/math/comments/zegqnq/strategy_for_100_prisoner_problem_if_you_want_no/
