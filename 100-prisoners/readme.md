@@ -1,4 +1,5 @@
-# Enhancing the Prisoner's Dilemma: A New Strategy Outperforms the Classic Loop Approach
+# Enhancing the Prisoner's Dilemma: 
+**A New Strategy Outperforms the Classic Loop Approach**
 
 ## Explain problem:
 The 100 prisoners problem presents a fascinating scenario in probability theory and combinatorics, where 100 prisoners must find their own numbers hidden in 100 boxes to avoid execution. The classic loop strategy, which utilizes cycles in permutations, significantly enhances the prisoners' chances of survival.
@@ -15,7 +16,7 @@ A strategy exists that provides a survival probability of more than 30% for the 
 ---
 
 ## Abstract
-The "100 Prisoners Problem," initially explored by _Schwartz and Woeginger_ (2003), is a classical probability puzzle that has long fascinated mathematicians and computer scientists. The well-known "loop strategy" has been regarded as the most effective approach, providing a success probability of approximately \(1 - \ln(2) \approx 0.31\), or 31%. However, we introduce a modified strategy that adjusts the prisoners' box-checking sequence. Our custom strategy significantly alters the outcome by shortening the cycle lengths, leading to a marginal but consistent improvement in the success rate for prisoners. Through extensive simulation, we compare this strategy with the original loop strategy, proving that the custom method offers a better chance of survival.
+The "100 Prisoners Problem," initially explored by _Schwartz and Woeginger_ (2003), is a classical probability puzzle that has long fascinated mathematicians and computer scientists. The well-known "loop strategy" has been regarded as the most effective approach, providing a success probability of approximately $$\(1 - \ln(2) \approx 0.31\)$$, or 31%. However, we introduce a modified strategy that adjusts the prisoners' box-checking sequence. Our custom strategy significantly alters the outcome by shortening the cycle lengths, leading to a marginal but consistent improvement in the success rate for prisoners. Through extensive simulation, we compare this strategy with the original loop strategy, proving that the custom method offers a better chance of survival.
 
 ---
 
