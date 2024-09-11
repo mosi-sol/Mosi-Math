@@ -70,3 +70,8 @@ By applying the division graph method, the intermediate remainders during encryp
 #### Conclusion
 
 The division graph method offers an efficient approach to computing remainders through modular arithmetic, which can be directly applied to various cryptographic operations. By optimizing modular operations, this method can improve the performance and security of cryptographic algorithms, making it a valuable technique in the field of cryptography.
+
+---
+
+## Code:
+[clock division](https://github.com/mosi-sol/Mosi-Math/blob/main/improve_cryptography/clock_division.py)
