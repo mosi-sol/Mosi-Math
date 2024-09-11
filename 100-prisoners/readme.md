@@ -30,7 +30,7 @@ The classic loop strategy is built upon the notion of cycles. Each prisoner star
 ---
 
 ## The Custom Strategy
-In contrast to the loop strategy, our custom strategy incorporates a simple modification: each prisoner starts by checking the box corresponding to their number plus one modulo the number of prisoners (i.e., \((\text{prisoner number} + 1) \% 100\)), then alternates between adding and subtracting one from the previously found number. This adjustment creates a more predictable cycle structure that tends to produce shorter average cycle lengths, reducing the probability of any given prisoner failing to locate their number within 50 steps.
+In contrast to the loop strategy, our custom strategy incorporates a simple modification: each prisoner starts by checking the box corresponding to their number plus one modulo the number of prisoners (i.e., $$\((\text{prisoner number} + 1) \% 100\))$$, then alternates between adding and subtracting one from the previously found number. This adjustment creates a more predictable cycle structure that tends to produce shorter average cycle lengths, reducing the probability of any given prisoner failing to locate their number within 50 steps.
 
 ---
 
@@ -54,13 +54,13 @@ The **custom strategy** consistently achieved a **success rate** in the range of
 ## Classic Loop Strategy vs. Custom Strategy
 
 ### Classic Loop Strategy
-- Prisoner \( i \) begins by opening box \( i \), then follows the number in that box repeatedly.
+- Prisoner $$\( i \)$$ begins by opening box $$\( i \)$$, then follows the number in that box repeatedly.
 - The expected **cycle length** follows the distribution of **random permutations**. 
-- **Success Rate**: ~31%
-- **Mean Cycle Length**: 24.6
+- **Success Rate**: $$~31%$$
+- **Mean Cycle Length**: $$24.6$$
 
-### Custom Strategy (Prisoner \( i+1 \) and alternate between +1 and -1)
-- Prisoner \( i \) starts by opening box \( (i + 1) \% n \), alternating between adding and subtracting 1.
+### Custom Strategy (Prisoner $$\( i+1 \)$$ and alternate between +1 and -1)
+- Prisoner $$\( i \)$$ starts by opening box $$\( (i + 1) \% n \)$$, alternating between adding and subtracting 1.
 - This strategy shortens the cycle lengths, thereby improving the chances of success.
 - **Success Rate**: 30.50% to 32%
 - **Mean Cycle Length**: 21.00 to 23.00
@@ -76,12 +76,12 @@ The key to understanding the mathematical foundation of this modified strategy i
 In both the classic loop strategy and the custom strategy, the system relies on **permutations** of the boxes and prisoners. A permutation is a reordering of the numbers, and each permutation can be decomposed into **disjoint cycles**. The length of each cycle corresponds to how many steps a prisoner will take before encountering their original number.
 
 #### Classic Loop Strategy:
-- In the classic loop strategy, prisoner \( i \) starts by opening box \( i \), follows the number in the box, and repeats the process.
-- The expected cycle lengths follow the random permutation distribution. The probability of forming cycles of length \( k \) can be derived using properties of **random permutations**.
+- In the classic loop strategy, prisoner $$\( i \)$$ starts by opening box $$\( i \)$$, follows the number in the box, and repeats the process.
+- The expected cycle lengths follow the random permutation distribution. The probability of forming cycles of length $$\( k \)$$ can be derived using properties of **random permutations**.
 
 #### Custom Strategy:
 In the custom strategy, we slightly modify the steps:
-1. Each prisoner starts by checking \( (i + 1) \% 100 \) where \( i \) is the prisoner's number.
+1. Each prisoner starts by checking $$\( (i + 1) \% 100 \)$$ where $$\( i \)$$ is the prisoner's number.
 2. Prisoner then alternates between adding 1 and subtracting 1.
 
 The modified process creates different cycles in the permutation. While the starting point is shifted, the alternating add/subtract method increases the likelihood of shorter cycle lengths.
@@ -94,14 +94,14 @@ In both the classic loop strategy and the custom strategy, the system relies on 
 
 ### Classic Loop Strategy:
 
-    In the classic loop strategy, prisoner ii starts by opening box ii, follows the number in the box, and repeats the process.
+In the classic loop strategy, prisoner ii starts by opening box ii, follows the number in the box, and repeats the process.
     The expected cycle lengths follow the random permutation distribution. The probability of forming cycles of length kk can be derived using properties of random permutations.
 
 ### Custom Strategy:
 
 In the custom strategy, we slightly modify the steps:
 
-    Each prisoner starts by checking (i+1)%100(i+1)%100 where ii is the prisoner's number.
+Each prisoner starts by checking (i+1)%100(i+1)%100 where ii is the prisoner's number.
     Prisoner then alternates between adding 1 and subtracting 1.
 
 The modified process creates different cycles in the permutation. While the starting point is shifted, the alternating add/subtract method increases the likelihood of shorter cycle lengths.
@@ -111,29 +111,29 @@ The modified process creates different cycles in the permutation. While the star
 ## Mathematical Concepts Involved
 
 1. **Expected Number of Cycles**:  
-   In a random permutation, the expected number of cycles \( E(c_n) \) in a permutation of \( n \) elements is given by:
+   In a random permutation, the expected number of cycles $$\( E(c_n) \)$$ in a permutation of $$\( n \)$$ elements is given by:
    
    “E(cn​)\=k\=1∑n​k1​≈ln(n)+γ+2n1​”
    
-   \[
+   $$\[
    E(c_n) = \sum_{k=1}^{n} \frac{1}{k} \approx \ln(n) + \gamma + \frac{1}{2n}
-   \]
-   where \( \gamma \) is the Euler-Mascheroni constant (\( \gamma \approx 0.577 \)). 
+   \]$$
+   where $$\( \gamma \)$$ is the Euler-Mascheroni constant $$(\( \gamma \approx 0.577 \))$$. 
 
-   For \( n = 100 \), this leads to approximately 5 cycles on average.
+   For $$\( n = 100 \)$$, this leads to approximately 5 cycles on average.
 
 2. **Expected Cycle Length**:  
    The expected cycle length in a random permutation is the reciprocal of the cycle frequency, approximated as:
    
    “E(cycle length)\=E(cn​)n​”
    
-   \[
+   $$\[
    E(\text{cycle length}) = \frac{n}{E(c_n)}
-   \]
+   \]$$
    In our case with 100 prisoners, this results in an average cycle length of approximately 20-22.
 
 3. **Probability of Success**:  
-   In the classic strategy, the probability that no prisoner exceeds the 50-box limit depends on the cycle lengths. If a cycle exceeds 50 boxes, all prisoners fail. The probability that all prisoners succeed is related to the probability that the longest cycle is less than or equal to 50. This probability for the loop strategy is approximately 1−ln(2)≈0.31 .
+   In the classic strategy, the probability that no prisoner exceeds the 50-box limit depends on the cycle lengths. If a cycle exceeds 50 boxes, all prisoners fail. The probability that all prisoners succeed is related to the probability that the longest cycle is less than or equal to 50. This probability for the loop strategy is approximately $$1−ln(2)≈0.31$$ .
 
    In the custom strategy, since the cycles are shorter, the probability of success is slightly improved. Based on our results, the success rate increases to around 32%, which can be computed by simulating the number of prisoners that complete their search in fewer than 50 steps.
 
@@ -149,13 +149,13 @@ The modified process creates different cycles in the permutation. While the star
    compared to the classic strategy's 24.6.
 
 2. **Success Probability**:
-   The success probability \( P(\text{success}) \) for the custom strategy can be derived by analyzing the distribution of cycle lengths:
+   The success probability $$\( P(\text{success}) \)$$ for the custom strategy can be derived by analyzing the distribution of cycle lengths:
    
    “P(success)\=cycles∏​P(cycle length≤50)”
    
-   \[
+   $$\[
    P(\text{success}) = \prod_{\text{cycles}} P(\text{cycle length} \leq 50)
-   \]
+   \]$$
    where the cycle lengths follow a distribution biased towards shorter values due to the custom alternation strategy.
 
 ---
