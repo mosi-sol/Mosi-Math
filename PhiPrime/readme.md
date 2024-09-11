@@ -45,13 +45,13 @@ The core mathematical operation in the provided Python code for finding prime nu
 range (from $\(x\)$ to $\(y\))$ is based on the trial division method to test the primality of each number. 
 The essential mathematical concept behind this code can be summarized by the following formula for checking if a number $\(n\)$ is prime:
 
-$\[ \text{is\_prime}(n) = 
+$$\[ \text{is\_prime}(n) = 
 \begin{cases} 
 \text{false} & \text{if } n \leq 1 \\
 \text{false} & \text{if } \exists d \in \mathbb{N}, 2 \leq d \leq \sqrt{n} : d | n \\
 \text{true} & \text{otherwise}
 \end{cases}
-\]$
+\]$$
 
 Where:
 - $\(n\)$ is the number being tested for primality.
