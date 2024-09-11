@@ -200,3 +200,6 @@ Mathematically, the custom strategy **reduces cycle lengths**, shifting the dist
 
 ## Custom strategy
 In this article i have mention of the `custom strategy` as my name, `mosi algorithm`
+
+## Published as public on my-github
+9 September 2024, In memory of 9-11
