@@ -14,7 +14,7 @@ The code uses a simple trial division algorithm to check if a number $\(n\)$ is 
 all smaller numbers greater than 1 and up to $\(\sqrt{n}\)$. If none of these divisions result in a whole number, $\(n\)$ is 
 prime. The mathematical basis for this is:
 
-$\[ \text{is\_prime}(n) : \nexists d \in \mathbb{N}, 1 < d < \sqrt{n} + 1 : d | n \]$
+$$\[ \text{is\_prime}(n) : \nexists d \in \mathbb{N}, 1 < d < \sqrt{n} + 1 : d | n \]$$
 
 ### 3. Distribution and Gap Analysis
 
