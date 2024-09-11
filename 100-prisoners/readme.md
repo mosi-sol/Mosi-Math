@@ -203,3 +203,6 @@ In this article i have mention of the `custom strategy` as my name, `mosi algori
 
 ## Published as public on my-github
 9 September 2024, In memory of 9-11
+
+## Citition
+[Mosi](https://github.com/mosi-sol)
