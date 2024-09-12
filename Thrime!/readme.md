@@ -1,4 +1,4 @@
-### Exploring the Equation: Finding Prime Numbers from Even Numbers in a Logarithmic Sequence
+### Exploring THRIME Equation: Finding Prime Numbers from Even Numbers in a Logarithmic Sequence
 
 In mathematics, prime numbers are fascinating due to their irregular distribution and the challenge they present in number theory. In this article, we explore a specific sequence that tests whether sums of certain even numbers with the constant 3 yield prime numbers. This approach uses a logarithmic pattern to select even numbers, excluding those that end in 6, and then checks if the result is prime.
 
