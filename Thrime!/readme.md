@@ -6,9 +6,9 @@ In mathematics, prime numbers are fascinating due to their irregular distributio
 
 The main goal is to examine sums of the form:
 
-$$\[
+$$\
 S = 3 + E
-\]$$
+\$$
 
 Where:
 - $$\( E \)$$ is an even number, but **it should not end in 6**.
