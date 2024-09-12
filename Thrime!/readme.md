@@ -62,4 +62,4 @@ This visual representation highlights the irregular distribution of primes and n
 
 This exploration of primes using even numbers in a logarithmic sequence provides an interesting insight into how prime numbers are distributed when sums are formed with a fixed constant (3). While primes become less frequent as the numbers grow larger, the logarithmic step ensures that large gaps are explored, leading to the discovery of primes even in higher ranges. This approach could be further expanded to explore similar equations or number patterns.
 
-> This is not Prime Prodecure, just an observation.
+> This is not Prime Prodecure/Factory, just an observation.
