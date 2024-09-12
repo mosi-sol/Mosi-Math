@@ -50,6 +50,7 @@ Here are the prime and non-prime numbers found:
 2. **Non-Prime Numbers**: The non-prime sums fill the gaps between the primes. As expected, there are more non-prime sums than prime sums, which reflects the overall distribution of prime numbers in number theory.
 
 ### Visualizing the Results
+- [code here](https://github.com/mosi-sol/Mosi-Math/blob/main/Thrime!/thrime.py)
 
 We can plot the distribution of prime and non-prime sums to better understand their spread. The scatter plot below shows how the sums evolve and whether they are prime or non-prime:
 
