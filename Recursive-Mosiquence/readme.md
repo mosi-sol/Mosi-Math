@@ -1,11 +1,13 @@
 # Recursive Mosiquence
 Recursive Mosiquence addressing you how can be fast growth a series.
+- Research: Mosi
+- Content grammer & structure Editor: LotusChain-Ai
 
 > The `[` or `]` used here from `latex` to show "math formula" on `markdown files`
 
 ### **Understanding Recursive Sequences: An Exploration of Rapid Growth**
 
-In the realm of mathematics, sequences play a vital role in understanding how numbers behave when they follow specific patterns. One fascinating type of sequence is a **recursive sequence**, where each term depends on the values of the previous terms. Recursive sequences can lead to surprising and sometimes fast-growing patterns. In this article, we will explore such a sequence, analyze its behavior, and explain how its growth can become exponential-like over time.
+In the world of mathematics, sequences play a vital role in understanding how numbers behave when they follow specific patterns. One fascinating type of sequence is a **recursive sequence**, where each term depends on the values of the previous terms. Recursive sequences can lead to surprising and sometimes fast-growing patterns. In this article, we will explore such a sequence, analyze its behavior, and explain how its growth can become exponential-like over time.
 
 ### **The Sequence Definition**
 
