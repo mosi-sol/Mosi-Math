@@ -1,3 +1,8 @@
+# Recursive Mosiquence
+Recursive Mosiquence addressing you how can be fast growth a series.
+
+> The `[` or `]` used here from `latex` to show "math formula" on `markdown files`
+
 ### **Understanding Recursive Sequences: An Exploration of Rapid Growth**
 
 In the realm of mathematics, sequences play a vital role in understanding how numbers behave when they follow specific patterns. One fascinating type of sequence is a **recursive sequence**, where each term depends on the values of the previous terms. Recursive sequences can lead to surprising and sometimes fast-growing patterns. In this article, we will explore such a sequence, analyze its behavior, and explain how its growth can become exponential-like over time.
@@ -88,3 +93,9 @@ Where $$\( C \)$$ is some constant. This approximation shows that the sequence�
 The sequence we explored in this article is a fascinating example of how simple recursive formulas can lead to complex behavior, including rapid growth. Despite the alternating signs and unpredictable individual values, the overall pattern shows exponential-like growth in magnitude. This kind of sequence has applications in various fields, including computer science, cryptography, and even biology, where recursive relationships often define growth processes.
 
 By analyzing the sequence, calculating its growth ratios, and visualizing its behavior, we’ve gained insight into how a seemingly straightforward formula can generate large and fast-growing numbers. The next time you encounter a recursive sequence, consider its growth potential—what starts as a small number may grow much faster than expected!
+
+---
+
+### Codes:
+- **calculation**: [code](https://github.com/mosi-sol/Mosi-Math/blob/main/Recursive-Mosiquence/app.py)
+- **visualization**: [code](https://github.com/mosi-sol/Mosi-Math/blob/main/Recursive-Mosiquence/product.py)
