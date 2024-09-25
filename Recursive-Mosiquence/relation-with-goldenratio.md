@@ -55,3 +55,7 @@ where $$\( A \)$$ and $$\( B \)$$ are constants determined by initial conditions
 **Conclusion**
 
 The recurrence relation $$\( x_n = a x_{n-1} + b x_{n-2} \)$$ is directly related to the golden ratio $$\( \phi \)$$ and $$\( \sqrt{5} \)$$ when the characteristic equation involves a discriminant that includes $$\( \sqrt{5} \)$$. For the Fibonacci sequence, where $$\( a = 1 \)$$ and $$\( b = 1 \)$$, the roots of the characteristic equation are $$\( \phi \)$$ and $$\( \psi \)$$, which are derived from $$\( \sqrt{5} \)$$. This connection has far-reaching implications for the study of recurrence relations and the properties of the golden ratio.
+
+---
+
+> The `[` and `]` is common syntax of `latex` on `markdown` files for showing in center of line. on other examples used for rounding number.
