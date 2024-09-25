@@ -103,3 +103,7 @@ By analyzing the sequence, calculating its growth ratios, and visualizing its be
 ### Codes:
 - **calculation**: [code](https://github.com/mosi-sol/Mosi-Math/blob/main/Recursive-Mosiquence/app.py)
 - **visualization**: [code](https://github.com/mosi-sol/Mosi-Math/blob/main/Recursive-Mosiquence/product.py)
+
+#
+
+OEIS similar "binomial transform/distribution" models: [oeis](https://oeis.org/search?q=2+%2C+3+%2C+-1+%2C+4+%2C+-5+%2C+9+%2C+-14+%2C+23+%2C+-37+%2C+60+%2C+-97+%2C+157+%2C+-254+%2C+411+%2C+-665+%2C+1076+%2C+-1741+%2C+2817+%2C+-4558+%2C+7375&language=english&go=Search)
