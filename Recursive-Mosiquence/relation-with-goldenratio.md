@@ -58,4 +58,4 @@ The recurrence relation $$\( x_n = a x_{n-1} + b x_{n-2} \)$$ is directly relate
 
 ---
 
-> The `[` and `]` is common syntax of `latex` on `markdown` files for showing in center of line. on other examples used for rounding number.
+> The `[` and `]` is common syntax of `latex` on `markdown` files for showing in center of line. Otherwise used for rounding number.
