@@ -13,4 +13,5 @@ The longest solution used on programming is `a^(p-1) ≡ 1 (mod p)`. I hate that
 
 ---
 
-This code have 1 problem: if number is a factor of a prime like `7^2` the code made wrong answer
+This code have 1 problem: if number is a factor of a prime like `7^2` the code made wrong answer.\
+To fix this problem can to check root of input (root or 2root or...)!
