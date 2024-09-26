@@ -6,6 +6,8 @@ This solution is fastest way to return the Boolean of `is_prime` on programming.
 
 The longest solution used on programming is `a^(p-1) ≡ 1 (mod p)`. I hate that, I love lazy-solution just for my computer hardware "resources management" :)
 
+This code have a problem, but for first check on big numbers we use this then use other algorithms, that just for saving of hardware limitaiions.
+
 ### Why `24`? 
 `1*2*3*4` lol. actualy each prime greater of 3 is before or after "6 family" :)
 
