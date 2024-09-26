@@ -10,3 +10,7 @@ The longest solution used on programming is `a^(p-1) ≡ 1 (mod p)`. I hate that
 `1*2*3*4` lol. actualy each prime greater of 3 is before or after "6 family" :)
 
 > Made by Mosi, year 2000, Shiraz
+
+---
+
+This code have 1 problem: if number is a factor of a prime like `7^2` the code made wrong answer
