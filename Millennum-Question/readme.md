@@ -139,4 +139,5 @@ This is only an observation and in the early point. Please contact me on linkedi
 ---
 
 ## Additions:
-Every time can to multiply 7 (1+2+4 "first row sum") to the first number of second row, the answer is the same of sum of second row. (Always)
+- Every time can to multiply 7 (1+2+4 "first row sum") to the first number of second row, the answer is the same of sum of second row. (Always)
+- I want to spending time for first rows, because thats like [collatz conjector](https://github.com/mosi-sol/Mosi-Math/tree/main/3n%2B1(collatz%20conjecture)) root. I try to finding the leaf of each number (using my reverse code).
