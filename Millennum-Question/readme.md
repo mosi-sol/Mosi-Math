@@ -135,3 +135,8 @@ This research opens the door for future explorations into the nature of perfect 
 > Mosi from Iran,Shiraz
 
 This is only an observation and in the early point. Please contact me on linkedin: [my account](https://www.linkedin.com/in/lotus-chain)
+
+---
+
+## Additions:
+Every time can to multiply 7 (1+2+4) to the first number of second row, the answer is the same of sum of second row. (Always)
