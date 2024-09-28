@@ -139,4 +139,4 @@ This is only an observation and in the early point. Please contact me on linkedi
 ---
 
 ## Additions:
-Every time can to multiply 7 (1+2+4) to the first number of second row, the answer is the same of sum of second row. (Always)
+Every time can to multiply 7 (1+2+4 "first row sum") to the first number of second row, the answer is the same of sum of second row. (Always)
