@@ -35,12 +35,12 @@ $$\
 
 #### Magic Square for 28
 
-$$\[
+$$\
 \begin{bmatrix}
 1 & 2 & 4 \\
 7 & 14 & 28 \\
 \end{bmatrix}
-\]$$
+\$$
 
 - **Row Sums**:
   - Row 1: $$\(1 + 2 + 4 = 7\)$$
@@ -109,9 +109,15 @@ $$\
 
 The column sums consistently align with powers of $$\(2\)$$, which is a fascinating pattern observed:
 
+<!--
 $$\
 \text{Column Sum}_i = 2^{n_i} \quad \text{(where \(n_i\) increases for each subsequent column)}
 \$$
+-->
+
+$$\ \text{Column Sum}_i = 2^{n_i} \quad \$$
+
+(where $$\(n_i\)$$ increases for each subsequent column)
 
 For example:
 - For 28: $$\(2^3, 2^4, 2^5\)$$
